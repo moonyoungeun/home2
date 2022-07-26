@@ -223,10 +223,13 @@ footer p{
     }
     figure .text p{
         font-size: 12vw;
+        color: #fff;
     }
     figure .login{
         font-size: 8vw;
         right: 43vw;
+        
+        
     }
 
     footer .log{
