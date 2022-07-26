@@ -39,8 +39,8 @@ header .btn_manu{
 header h1 a {
     position: absolute;
     color: rgba(255, 255, 255, 0.401);
-    left: 450px;
-    top: 65px;
+    left: 80px;
+    top: 68px;
 }
 
 
@@ -80,7 +80,7 @@ header #sub .sub_menu a i{
 header #gnb {
      display: flex;
      position: absolute;
-     left: 500px;
+     left: 120px;
     }
     
 
@@ -136,7 +136,7 @@ figure video{
 
 figure .text{
     position: absolute;
-    left: 45vw;
+    left: 15vw;
     top: 0%;
     bottom: 45%;
     transform: translate(0,50%);
@@ -195,7 +195,7 @@ footer p{
     font: bold 25px/1 "Dancing Script";
     color: rgba(0, 0, 0, 0.41);
     position: absolute;
-    right: 490px;
+    left: 370px;
     bottom: 40px;
 
 }
