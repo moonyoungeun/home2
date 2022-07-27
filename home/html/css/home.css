@@ -32,7 +32,7 @@ header{
     z-index: 2;
 }
 
-header .btn_manu{
+header .btn_menu{
     display: none;
 }
 
@@ -102,6 +102,9 @@ header #gnb li a{
 
 header .sns{
     display: flex;
+    position: absolute;
+    left: 1300px;
+    
 }
 
 header .sns li{
